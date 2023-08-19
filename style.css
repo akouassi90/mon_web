@@ -9,8 +9,17 @@
 
 #top-banner-img{
   float:right;
+
 }
 
+.div,tr{
+  background: gold ;
+  color: aquamarine;
+  position: fixed;
+}
+a{
+  border-radius: 10%;
+}
 #menu {
   width: 260px;
   height: 100%;
